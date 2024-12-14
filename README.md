@@ -53,6 +53,10 @@
 
 
 ## Output:
+![Screenshot 2024-12-14 211720](https://github.com/user-attachments/assets/10217b31-c5b2-43ee-9758-3f49d28ada1f)
+![Screenshot 2024-12-14 211754](https://github.com/user-attachments/assets/fbecd1b8-ae03-481d-aefb-fc4593c87c1d)
+![Screenshot 2024-12-14 211814](https://github.com/user-attachments/assets/ff0901dc-3365-4008-8d02-1b2369635590)
+
 
 
 ### Name:srisha.M
